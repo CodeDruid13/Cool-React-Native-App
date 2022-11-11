@@ -6,5 +6,4 @@ Fork and use as you want. Just my learning process of React Native
   - Use Expo to preview on phone or local browser
   
   ![Alt Text](img/todo.gif)
-
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+ 
